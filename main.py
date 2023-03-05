@@ -1,3 +1,6 @@
+pip install telegram
+pip install sqlite3
+
 import telegram
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
 import sqlite3
