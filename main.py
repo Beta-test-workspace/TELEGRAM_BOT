@@ -1,4 +1,4 @@
-pip install telegram
+pip install python-telegram-bot
 pip install sqlite3
 
 import telegram
