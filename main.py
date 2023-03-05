@@ -1,5 +1,4 @@
-pip install python-telegram-bot
-pip install sqlite3
+pip install -r requirements.txt
 
 import telegram
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
